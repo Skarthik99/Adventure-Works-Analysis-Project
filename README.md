@@ -140,8 +140,8 @@ A practice dashboard replicating the same KPIs using interactive Power BI visual
 
 A Tableau dashboard created for visualization and analytics practice.
 
-📁 **File:** `tableau/Adventures works Project.twbx`  
-🖼️ **Screenshots:** `tableau/screenshots/`  
+📁 **File:** [`tableau/Adventures works Project.twbx`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/Adventures%20works%20Project.twbx)  
+🖼️ **Screenshots:** [`tableau/screenshots/`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/dashboards/screenshots/tableau_dashboard.png)  
 
 ---
 
@@ -155,7 +155,7 @@ Queries include:
 - Customer performance  
 - Monthly/quarterly trend analysis  
 
-📁 **File:** `sql/Adventure_works_Project.sql`
+📁 **File:** [`sql/Adventure_works_Project.sql`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/MySQL%20query/Adventure_works_Project.sql)
 
 ---
 
@@ -164,8 +164,8 @@ Queries include:
 Raw datasets are **not uploaded** due to size.  
 Sample datasets are available in:
 
-📁 `data/sample/`
-[https://drive.google.com/drive/folders/1VlhEaua10uerqMur8OndA9DZzS39AziT?usp=drive_link]
+📁 [`data/sample/`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/MySQL%20query/Adventure_works_Project.sql)
+
 
 👉 **Full dataset Google Drive link:**  
 **<ADD YOUR DRIVE LINK HERE>**
