@@ -120,8 +120,9 @@ Built performance visuals for:
 ### **1️⃣3️⃣ Final Excel Dashboard**
 Included KPIs, slicers, charts, and insights in a clean dashboard layout.
 
-📁 **File:** `excel/Adventure Works Project.xlsx`  
-🖼️ **Screenshots:** `excel/screenshots/`
+📁 **File:** [`excel/Adventure Works Project.xlsx`](https://docs.google.com/spreadsheets/d/1U7fMfZS-xjn_oOzf7vUd06it6yeUGxXy/edit?usp=drive_link&ouid=107602198493273725142&rtpof=true&sd=true)  
+🖼️ **Screenshots:** [`excel/screenshots/](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/dashboards/screenshots/excel_dashboard-1.png)
+https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/dashboards/screenshots/excel_dashbaord-2.png`
 
 ---
 
