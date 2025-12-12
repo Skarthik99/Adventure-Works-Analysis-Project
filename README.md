@@ -130,8 +130,8 @@ Included KPIs, slicers, charts, and insights in a clean dashboard layout.
 
 A practice dashboard replicating the same KPIs using interactive Power BI visuals.
 
-📁 **File:** [`powerbi/Adventure Works Project.pbix`]https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/Adventure%20Works%20Project.pbix  
-🖼️ **Screenshots:** [`powerbi/screenshots/`] https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/dashboards/screenshots/power_bi_dashboard-1.png
+📁 **File:** [`powerbi/Adventure Works Project.pbix`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/Adventure%20Works%20Project.pbix)  
+🖼️ **Screenshots:** [`powerbi/screenshots/`](https://github.com/Skarthik99/Adventure-Works-Analysis-Project/blob/main/dashboards/dashboards/screenshots/power_bi_dashboard-1.png)
 
 
 ---
