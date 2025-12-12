@@ -48,9 +48,9 @@ Combined **FactInternetSales** and **FactInternetSalesNew** into a unified datas
 
 ---
 
-### **1️⃣ Product Lookup**
-Mapped each sales record to its **Product Name** from *DimProduct*.
-using vloolup
+### 1️⃣ Product Lookup
+Mapped each sales record to its **Product Name** from *DimProduct* using vlookup.
+
 ---
 
 ### **2️⃣ Customer & Pricing Lookup**
